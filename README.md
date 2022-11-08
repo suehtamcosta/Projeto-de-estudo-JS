@@ -1,1 +1,1 @@
-# NovoProjeto
+# Projeto de estudo JS.
