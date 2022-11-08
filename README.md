@@ -1,1 +1,1 @@
-# Projeto de estudo JS.
+# Projeto de estudo JS
